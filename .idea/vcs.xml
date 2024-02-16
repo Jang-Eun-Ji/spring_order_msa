@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ordering_msa_item" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ordering_serve" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/order_front/ordering-frontend" vcs="Git" />
+  </component>
+</project>
